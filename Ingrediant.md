@@ -1,0 +1,1 @@
+paneer,curd,mustard oil,coriander powder,red chilli powder,lime juice,garam masala;
